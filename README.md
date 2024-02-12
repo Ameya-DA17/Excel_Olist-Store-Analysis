@@ -1,4 +1,4 @@
-roject Name: Olist Store Analysis
+Project Name: Olist Store Analysis
 
 Introduction:
 The Olist Store Analysis project delves into the e-commerce domain, utilizing data from 9 CSV files to extract valuable insights. Due to the large file size, a video recording is provided to showcase the dashboard's functionality.
